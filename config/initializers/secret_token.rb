@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Tract::Application.config.secret_token = '7208e3a3af7c584361fdce248bd06e7630ed9708199fd33728b3f56bb5ebda82de8f67d136e585134b11223bf110c3e45f2f827ce182aa3424b6498d6289c940'
+Tract::Application.config.secret_token = 'f5856e5d61124d607a1246702a85628cde854a3f668a94c81f620bb2a28868813681eb3b8ef46653d33c353b0cf3f6d4c1dcb6d450742014ff53f34bd6311413'
